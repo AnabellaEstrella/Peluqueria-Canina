@@ -6,12 +6,12 @@ El trabajo consistió en la construcción de una aplicación de escritorio que r
 
 📄 [Consigna del TP](https://drive.google.com/file/d/11v16gDI-Q5CsSokdnRIZTAiLv-g2RlBF/view?usp=sharing)
 
-## Información de conexión a la BD 🔌
+## 🔌 Información de conexión a la BD
 - Nombre de la base de datos: peluqueria_canina
 - Nombre de usuario: pelu
 - Contraseña: 1234
 
-## Construido con 🛠️
+## 🛠️ Construido con
 - Java 8
 - Java SE Development Kit 8
 - Java Swing
